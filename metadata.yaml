@@ -1,0 +1,32 @@
+_repo: Salassa-maailmalta-Romaani_68065
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Alpi, Eero
+    birthdate: 1885
+    deathdate: 1933
+    gutenberg_agent_id: '31668'
+    url: http://www.gutenberg.org/2009/agents/31668
+    wikipedia: https://fi.wikipedia.org/wiki/Eero_Alpi
+creator:
+  author:
+    agent_name: Flygare-Carlén, Emilie
+    gutenberg_agent_id: '54586'
+    url: http://www.gutenberg.org/2009/agents/54586
+description: ''
+gutenberg_issued: '2022-05-13'
+identifiers:
+  gutenberg: '68065'
+language: fi
+pgterms:marc905: 20211218100944flygarecar
+pgterms:marc906: '1916'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: Finland :Arvi A. Karisto Oy,1916.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Salassa maailmalta: Romaani'
+url: http://www.gutenberg.org/ebooks/68065
