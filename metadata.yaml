@@ -8,12 +8,17 @@ contributor:
     gutenberg_agent_id: '31668'
     url: http://www.gutenberg.org/2009/agents/31668
     wikipedia: https://fi.wikipedia.org/wiki/Eero_Alpi
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Flygare-Carlén, Emilie
     gutenberg_agent_id: '54586'
     url: http://www.gutenberg.org/2009/agents/54586
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68065#Salassa-maailmalta-Romaani
 gutenberg_issued: '2022-05-13'
 identifiers:
   gutenberg: '68065'
